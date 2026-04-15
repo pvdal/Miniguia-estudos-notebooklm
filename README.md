@@ -312,8 +312,3 @@ Este projeto permitiu desenvolver habilidades de:
 - Organização do conhecimento  
 
 Além disso, demonstrou como ferramentas de IA podem potencializar o aprendizado.
-
-```
-
-
-```
